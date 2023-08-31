@@ -23,7 +23,7 @@ Example code?
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]([url](https://www.google.com/)) and ![Image]([src](https://i.etsystatic.com/6144628/r/il/d412c8/1878112204/il_fullxfull.1878112204_5ul8.jpg))
+[Link]((https://www.google.com/)) and ![Image]((https://i.etsystatic.com/6144628/r/il/d412c8/1878112204/il_fullxfull.1878112204_5ul8.jpg))
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
