@@ -1,3 +1,9 @@
+# Abhiram Dasari's First CS193 Homework
+
+- I have no favorite things about this class
+- Just kidding the TA's are kinda funny
+- Give me an A please
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
